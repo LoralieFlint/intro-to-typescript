@@ -1,0 +1,22 @@
+{
+  "name": "intro-to-typescript",
+  "version": "1.0.0",
+  "description": "typescript basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoralieFlint/intro-to-typescript.git"
+  },
+  "author": "Loralie Flint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoralieFlint/intro-to-typescript/issues"
+  },
+  "homepage": "https://github.com/LoralieFlint/intro-to-typescript#readme",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
+}
