@@ -8,12 +8,11 @@ var obj = {
     x: 5.32,
     y: 7
 };
-// these wont work
-// obj.x = "123"
-// obj.y = true
-// to compile run tsc variables.ts
-// this will compile into JS and  make a JS file in the same name
 // functions
+var add = function (x, y) { return x + y; };
+console.log(add(2, 3));
+// destructuring 
+var add2 = function (nums) { return nums.a + nums.b; };
 // unions
 // casting
 // any
